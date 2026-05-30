@@ -17,8 +17,6 @@ Many existing food delivery applications face several challenges that negatively
 - Limited customer support.
 - Restricted promotional offers.
 - Inaccurate order notes and instructions.
-- Lack of personalized recommendations.
-- Complex ordering processes.
 
 These issues often reduce customer trust and loyalty and create a frustrating user experience.
 
@@ -31,8 +29,6 @@ These issues often reduce customer trust and loyalty and create a frustrating us
 - Improve customer satisfaction and trust.
 - Offer personalized food recommendations.
 - Ensure transparent pricing and delivery fees.
-- Provide efficient customer support.
-- Create a smooth and hassle-free ordering process.
 
 ---
 
@@ -45,8 +41,6 @@ These issues often reduce customer trust and loyalty and create a frustrating us
 - Users who prefer ordering meals instead of cooking.
 - People who enjoy exploring different cuisines.
 - Users with dietary restrictions or health goals.
-- Individuals organizing gatherings and events.
-- Late-night customers.
 
 ### Secondary Users
 
@@ -71,8 +65,6 @@ These issues often reduce customer trust and loyalty and create a frustrating us
 - Scheduled order delivery.
 - Sending orders to friends and family.
 - Multiple services within one application.
-- Flexible payment methods.
-- Easy access to nearby restaurants.
 
 #### Common Challenges
 
@@ -152,11 +144,8 @@ These issues often reduce customer trust and loyalty and create a frustrating us
 
 - Home delivery or pickup.
 - Cash on Delivery.
-- Credit/Debit Cards.
 - Mada.
 - Apple Pay.
-- Real-time order tracking.
-
 ### Offers & Discounts
 
 - Promotional codes.
@@ -171,10 +160,6 @@ These issues often reduce customer trust and loyalty and create a frustrating us
 - Fast loading and response times.
 - Support for high user traffic.
 
-### Reliability
-- Stable system performance.
-- Continuous technical support.
-
 ### Security
 - Data encryption.
 - Secure payment processing.
@@ -182,11 +167,6 @@ These issues often reduce customer trust and loyalty and create a frustrating us
 ### User Experience
 - Modern and intuitive interface.
 - Smooth navigation and usability.
-
-### Compatibility
-- iOS support.
-- Android support.
-- Responsive across different devices.
 
 ### Scalability
 - Easy addition of new restaurants.
@@ -216,7 +196,6 @@ This project was developed as part of a team collaboration for an academic proje
 - Figma
 
 ---
-
 ## Project Preview
 
 This repository includes UI designs, user flows, and interactive prototype videos demonstrating the complete user experience of the Tasty Way application.
