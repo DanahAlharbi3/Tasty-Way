@@ -66,19 +66,19 @@ This repository includes UI designs, user flows, and interactive prototype video
 ## Screenshots
 
 ### Home Screen
-<img width="1194" height="2535" alt="Home" src="https://github.com/user-attachments/assets/78f7c40c-1bf8-490e-8496-d9d5f7c2efe6" />
+<img width="300"  alt="Home" src="https://github.com/user-attachments/assets/78f7c40c-1bf8-490e-8496-d9d5f7c2efe6" />
 
 
 ### Personalized Food Recommendations
-<img width="1125" height="2442" alt="Suggestions" src="https://github.com/user-attachments/assets/dc4ed4f5-5c57-4fb3-8fc5-fae55cc724b9" />
+<img width="300"  alt="Suggestions" src="https://github.com/user-attachments/assets/dc4ed4f5-5c57-4fb3-8fc5-fae55cc724b9" />
 
 
 ### User Profile
-<img width="1170" height="2532" alt="User Profile" src="https://github.com/user-attachments/assets/d7efba44-8e09-43c8-bf64-560fb6995f19" />
+<img width="300"  alt="User Profile" src="https://github.com/user-attachments/assets/d7efba44-8e09-43c8-bf64-560fb6995f19" />
 
 
 ### Delivery Details & Payment
 
-<img width="1170" height="2532" alt="Delivery Details" src="https://github.com/user-attachments/assets/725a5391-8f2f-43d5-8399-2d061eeb1d70" />
+<img width="300" alt="Delivery Details" src="https://github.com/user-attachments/assets/725a5391-8f2f-43d5-8399-2d061eeb1d70" />
 
 
