@@ -3,174 +3,37 @@ Food Delivery Mobile Application - UI/UX Case Study
 
 ## Overview
 
-Tasty Way is a mobile food delivery application designed to provide users with a seamless, convenient, and personalized ordering experience. The application aims to address common challenges found in existing delivery platforms by offering transparent pricing, efficient customer support, accurate order customization, and personalized recommendations.
-
-The platform focuses on saving users time and effort while providing a smooth, reliable, and user-friendly ordering journey.
-
----
-
-## Problem Statement
-
-Many existing food delivery applications face several challenges that negatively affect user satisfaction, including:
-
-- High delivery costs and hidden fees.
-- Limited customer support.
-- Restricted promotional offers.
-- Inaccurate order notes and instructions.
-
-These issues often reduce customer trust and loyalty and create a frustrating user experience.
-
----
-
-## Project Objectives
-
-- Enhance the online food ordering experience.
-- Provide a simple and intuitive user interface.
-- Improve customer satisfaction and trust.
-- Offer personalized food recommendations.
-- Ensure transparent pricing and delivery fees.
-
----
-
-## Target Users
-
-### Primary Users
-
-- Busy individuals with limited time to cook.
-- Students and individuals without cooking facilities.
-- Users who prefer ordering meals instead of cooking.
-- People who enjoy exploring different cuisines.
-- Users with dietary restrictions or health goals.
-
-### Secondary Users
-
-- Delivery drivers and couriers.
-- Restaurant and store owners.
-- Customer support staff.
-- Application administrators.
-
----
-
-## Research & Analysis
-
-### Research Methods
-
-- Observation
-- User Surveys
-
-### Key Findings
-
-#### What Users Value
-
-- Scheduled order delivery.
-- Sending orders to friends and family.
-- Multiple services within one application.
-
-#### Common Challenges
-
-- High delivery fees and unfair pricing.
-- Lack of responsive customer support.
-- Limited promotional offers.
-- Poor delivery experiences.
-- Lack of pricing transparency.
-
----
-
-## Proposed Solutions
-
-### Transparent Pricing
-
-- No hidden fees.
-- Delivery fees ranging from 0–15 SAR based on distance.
-- Clear fee display before checkout.
-
-### Personalized Experience
-
-- Food recommendations based on previous orders.
-- Personalized discounts and offers.
-- Loyalty rewards system.
-
-### Customer Support
-
-- Fast issue resolution.
-- Complaint management system.
-- Immediate support for order and payment issues.
-
-### Flexible Ordering
-
-- No minimum order requirement.
-- Scheduled or immediate delivery options.
-
----
+Tasty Way is a food delivery mobile application designed to provide users with a seamless, convenient, and personalized ordering experience. The app focuses on transparent pricing, efficient customer support, personalized recommendations, and an intuitive user interface.
 
 ## Key Features
 
-### User Registration & Login
+- Personalized food recommendations
+- Transparent pricing and delivery fees
+- Calorie tracking
+- Real-time order tracking
+- Multiple payment methods
+- Promotions and loyalty rewards
+- Restaurant search and filtering
 
-- Phone number registration.
-- Social media login support.
-- Verification code authentication.
+## Project Type
 
-### User Profile
+This project was developed as part of a team collaboration for an academic project.
 
-- Manage personal information.
-- Save favorite delivery addresses.
+## My Contributions
 
-### Restaurant & Menu Browsing
+- User Research and Analysis
+- Survey Data Collection and Analysis
+- Requirements Gathering
+- UI Design using Figma
+- Prototyping
 
-- Nearby restaurant recommendations.
-- Search and filtering options.
-- Menu details with pricing and descriptions.
+## Tools Used
 
-### Order Management
+- Figma
 
-- Add items to cart.
-- Order review and confirmation.
-- Scheduled delivery support.
+## Project Preview
 
-### Accurate Product Information
 
-- Ingredients and nutritional information.
-- Allergy-related details.
-- Realistic food images.
-
-### Calorie Tracking
-
-- Daily calorie limit settings.
-- Calorie calculation feature.
-- Notifications when calorie limits are exceeded.
-
-### Delivery & Payment
-
-- Home delivery or pickup.
-- Cash on Delivery.
-- Mada.
-- Apple Pay.
-### Offers & Discounts
-
-- Promotional codes.
-- Personalized discounts.
-- Reward points system.
-
----
-
-## Non-Functional Requirements
-
-### Performance
-- Fast loading and response times.
-- Support for high user traffic.
-
-### Security
-- Data encryption.
-- Secure payment processing.
-
-### User Experience
-- Modern and intuitive interface.
-- Smooth navigation and usability.
-
-### Scalability
-- Easy addition of new restaurants.
-- Expansion to new delivery areas.
 
 ---
 
@@ -199,4 +62,23 @@ This project was developed as part of a team collaboration for an academic proje
 ## Project Preview
 
 This repository includes UI designs, user flows, and interactive prototype videos demonstrating the complete user experience of the Tasty Way application.
+
+## Screenshots
+
+### Home Screen
+<img width="1194" height="2535" alt="Home" src="https://github.com/user-attachments/assets/78f7c40c-1bf8-490e-8496-d9d5f7c2efe6" />
+
+
+### Personalized Food Recommendations
+<img width="1125" height="2442" alt="Suggestions" src="https://github.com/user-attachments/assets/dc4ed4f5-5c57-4fb3-8fc5-fae55cc724b9" />
+
+
+### User Profile
+<img width="1170" height="2532" alt="User Profile" src="https://github.com/user-attachments/assets/d7efba44-8e09-43c8-bf64-560fb6995f19" />
+
+
+### Delivery Details & Payment
+
+<img width="1170" height="2532" alt="Delivery Details" src="https://github.com/user-attachments/assets/725a5391-8f2f-43d5-8399-2d061eeb1d70" />
+
 
