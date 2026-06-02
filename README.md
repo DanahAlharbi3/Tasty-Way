@@ -78,3 +78,6 @@ This repository includes UI designs, user flows, and interactive prototype video
 <img width="300" alt="Delivery Details" src="https://github.com/user-attachments/assets/725a5391-8f2f-43d5-8399-2d061eeb1d70" />
 
 
+### Order Status
+
+<img width="300" alt="Order Status" src="https://github.com/user-attachments/assets/ff3b66ef-8f76-49f4-ae98-e070decb8f0c" />
