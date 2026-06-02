@@ -31,10 +31,6 @@ This project was developed as part of a team collaboration for an academic proje
 
 - Figma
 
-## Project Preview
-
-
-
 ---
 
 ## Project Type
